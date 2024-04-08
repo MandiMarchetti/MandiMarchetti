@@ -1,4 +1,4 @@
-<h2 align="left">Hello world 👋! <br><br>My name is Amanda and I'm a Full Stack Developer student from Brazil, but living in Rome, Italy.</h2>
+<h2 align="left">Hello world 👋! <br><br>My name is Amanda and I'm a Full Stack Developer student...</h2>
 
 ###
 
